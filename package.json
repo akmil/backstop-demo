@@ -13,6 +13,6 @@
   "author": "a",
   "license": "ISC",
   "dependencies": {
-    "backstopjs": "5.0.7"
+    "backstopjs": "^5.3.7"
   }
 }

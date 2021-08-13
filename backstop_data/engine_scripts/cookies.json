@@ -1,38 +1,14 @@
 [
   {
-    "domain": "https://qa.wolterskluwer.com/en/#",
+    "domain": "https://qa.wolterskluwer.com",
     "path": "/",
     "name": "CF_Authorization",
-    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRmOTllMGY3NjBiZWJiYTYzZTNlNDAzODBlOWZhMGI1MGQzMjhiNTEyYjNjMGZmNDMxYWExNDQ2Njk5ZTgwYzQifQ.eyJhdWQiOlsiZDAwYzg4ZjVlMzI0NjdkNzliY2ZhMjBiZjU0NDQ3MjBlZDZkZTlmMjMxNWYyZGI2ZTU3NDBmYWZjN2VhM2Q0OSJdLCJlbWFpbCI6IlBhdmxvLk9saWlueWtAd29sdGVyc2tsdXdlci5jb20iLCJleHAiOjE2MjY4ODUyNjEsImlhdCI6MTYyNjc5ODg2MSwibmJmIjoxNjI2Nzk4ODYxLCJpc3MiOiJodHRwczovL29uZXdlYi13b2x0ZXJza2x1d2VyLmNsb3VkZmxhcmVhY2Nlc3MuY29tIiwidHlwZSI6ImFwcCIsImlkZW50aXR5X25vbmNlIjoieUxjTllPdklMTHozQk5NcSIsInN1YiI6IjVkNGRkNjY4LWYwNGItNGQxOC1iMjk2LTNiZDRjMmQzODI0NiIsImNvdW50cnkiOiJVQSJ9.Crec-Jnyquam6cF8hNvyFZRhZOklOw2CXnujlSyh9DDXunNsNoci-uSDzw2SkqZPiESp29sk8AxA1ZfjxuRobnElbOTMPtzV1ai4-VdNgkL3XeI8S-L5pcr0-xd1vVc3ht9sDQ9qIDr6jUiWhSG9TAAfJDwKjEoLuLb0Fmj1hr4rSKc6QrHTPamlAZUv4lbKnO6uaDrQqBROGZbHRjTxmcA1sjAmQ6btvl7lGczx7jFGO35zntEmH0CRM8baUnAjM-nD-dZG0WZCAPo5VgLtdARZdzpL9bBejgw4Ow0Wh00hvp_6Z8bj1yFrgfynsWq_kkWJoz-Lja-mG7ySttXF8g",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRmOTllMGY3NjBiZWJiYTYzZTNlNDAzODBlOWZhMGI1MGQzMjhiNTEyYjNjMGZmNDMxYWExNDQ2Njk5ZTgwYzQifQ.eyJhdWQiOlsiZDAwYzg4ZjVlMzI0NjdkNzliY2ZhMjBiZjU0NDQ3MjBlZDZkZTlmMjMxNWYyZGI2ZTU3NDBmYWZjN2VhM2Q0OSJdLCJlbWFpbCI6IlBhdmxvLk9saWlueWtAd29sdGVyc2tsdXdlci5jb20iLCJleHAiOjE2Mjg5MzE1NDYsImlhdCI6MTYyODg0NTE0NiwibmJmIjoxNjI4ODQ1MTQ2LCJpc3MiOiJodHRwczovL29uZXdlYi13b2x0ZXJza2x1d2VyLmNsb3VkZmxhcmVhY2Nlc3MuY29tIiwidHlwZSI6ImFwcCIsImlkZW50aXR5X25vbmNlIjoiNjhTVDZEa1lNM1RDZTIzTSIsInN1YiI6IjVkNGRkNjY4LWYwNGItNGQxOC1iMjk2LTNiZDRjMmQzODI0NiIsImNvdW50cnkiOiJVQSJ9.t_vTqUCJurvY1cXEHajOgShob8doI25bAx9EbXvGcU38WzNLw1Z9b7HH0VrOcKOIJxyD42Zl6Pt3SNMtN0NrNm5BokHw9tmD7DZtkb8hEfnS8abO6i9CNA7OaRtSfp5ZgG0OdQetlqYCFTPA4Bw4fVsU7aIMpvK1xzlAVTky8VMs5G_HJFnmG86FIQHEyiK1KKzdtASrDJb2PbgSWFBHdCFwmsZXwePSGc1s52roBeEXAdX97dB_1mqNv7cmrMI5PS-ChtgcfIS7IWZ7s2AzCQYv_la5irilABqOO3eFXIZJa7iy0Cb17YvbnCj5vEMBtuVis42-riqE7n9kNguU1A",
     "expirationDate": "2021-07-21T16:34:22.323Z",
     "hostOnly": false,
     "httpOnly": false,
     "secure": false,
     "session": false,
-    "sameSite": "no_restriction"
-  },
-  {
-    "domain": "https://qa.wolterskluwer.com/en/#",
-    "path": "/",
-    "name": "www#lang",
-    "value": "en",
-    "expirationDate": "Session",
-    "hostOnly": false,
-    "httpOnly": false,
-    "secure": false,
-    "session": true,
-    "sameSite": "no_restriction"
-  },
-  {
-    "domain": "https://qa.wolterskluwer.com/en/#",
-    "path": "/",
-    "name": "sxa_site",
-    "value": "www",
-    "expirationDate": "Session",
-    "hostOnly": false,
-    "httpOnly": false,
-    "secure": false,
-    "session": true,
     "sameSite": "no_restriction"
   }
 ]

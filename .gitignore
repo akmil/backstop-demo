@@ -1,6 +1,7 @@
 .DS_Store
+.vscode
+backstop-data/bitmaps_test/*
 backstop-data/bitmaps_test/
 backstop-data/bitmaps_reference/
-backstop-data/html_report/
 backstop-data/ci_report/
 node_modules/
